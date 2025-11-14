@@ -1,0 +1,12 @@
+# - title: The Title of your Event
+#   description: |
+#     Longer description of your event.
+#     Can span multiple lines!
+#   website: https://website.for/your-event
+#   type: Choose one of: Hackathon, Meetup, Party and Other
+#   start_date: 2056-07-08
+#   end_date: 2056-07-09
+#   all_day: true
+#   location: Where is it happening? Ommit together with coordinates for online-only events
+#   latitude: 40.741895
+#   longitude: -73.989308
